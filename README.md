@@ -4,7 +4,7 @@ Start with the story of Tamimi family in Nabi Saleh
 
 Background info of the trip + overall situation of occupation
 
-Map:
+Interactive Map:
 
 1. East Jerusalem: Tour Silwan and the Mount of Olives
 2. Tamimi family
